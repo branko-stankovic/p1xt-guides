@@ -3,29 +3,31 @@
 You should understand how to use Git and Github, which you can learn using any of these free resources:
 
 **Note**: Just pick one of the courses below to learn the basics. You will learn a lot more once you get started!
-- [Try Git](https://try.github.io/levels/1/challenges/1)
+- [Git Videos](https://git-scm.com/videos) or [Pro Git](https://git-scm.com/book/en/v2)
 - [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - [GitHub Training & Guides](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
 - [GitHub Hello World](https://guides.github.com/activities/hello-world/)
 - [Git Immersion](http://gitimmersion.com/index.html)
 - [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+- How to not f-up your local files with Git [part1](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c), [part2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64)
 
 ## What development environment should I be using?
 * Pick your favorite editor, write all your code on your own machine in that editor
 * Save all your code to GitHub
-* Publish all your projects to the web  - using surge.sh, github pages, heroku etc
+* Publish all your projects to the web - using surge.sh, github pages, heroku etc
 * Avoid codepen.
 * Avoid cloud 9 or any other "just code it on the web so you don't have to learn how to code on your own machine" site.
-* Whenever you are doing a "Clone this" project - use only  assets you create yourself or that have copyrights which would allow you to use them.
+* Whenever you are doing a "Clone this" project - use only assets you create yourself or that have copyrights which would allow you to use them.
 * Develop the habit of giving attribution for everything you use that was the product of someone else's effort.
 
 ## How should I approach the items in the guides?
 ### Power up your learning - make every minute count 
 * When you're working through a book, type out the example code and do all the exercises.
 * When you're working through a course, do all the assignments.
-* When you're building a Project, include a built process (like [gulp](http://gulpjs.com/)), include at least 5 automated tests ([Karma](https://karma-runner.github.io/1.0/index.html), [mocha](https://mochajs.org/), sinon, chai, jasmine, tape, whatever works for you), include a README.md file that clearly explains the project, and practice using [meaningful 
+* When you're building a Project, include a build process (like [gulp](http://gulpjs.com/)), include at least 5 automated tests ([Karma](https://karma-runner.github.io/1.0/index.html), [mocha](https://mochajs.org/), sinon, chai, jasmine, tape, whatever works for you), include a README.md file that clearly explains the project, and practice using [meaningful 
 commit messages](http://chris.beams.io/posts/git-commit/) 
 * Use each project to demonstrate that you can deliver an optimized product. Implement tests (as I mentioned above), use your build process to minimize assets, use a linter (like [ESLint](http://eslint.org/)) on your JavaScript and have some method to your madness when it comes to your css naming conventions (like [BEM](http://getbem.com/introduction/))
+* As you learn, take the time to discuss what you're learning with others: write blog posts, spend time actively discussing code and concepts with other developers (of varying skill levels), if you're comfortable with it - produce some helpful videos explaining topics that others might find daunting, and (most importantly) embrace the opportunity to help others one on one. You never know something so thoroughly as when you take the time to deeply consider it and explain it to someone else who might be struggling. Helping others doesn't just benefit them, it benefits you by increasing your understanding and mastery of the topic. Help people - you'll learn a lot in the process - you'll be a better developer for having done it. 
 
 ### For each item you should:
 * take notes, on a blog, in markdown, wherever, somewhere - not about what you read, or about what the instructor said - about what you learned
@@ -50,7 +52,7 @@ commit messages](http://chris.beams.io/posts/git-commit/)
 
 ## Do you have any hints for success?
 * have git commits every week, most of the days of the week
-* try to get in one of @tropicalchancer's cohorts - be active once you're in
+* try to get in one of [@tropicalchancer's cohorts](https://chingu-cohorts.github.io/chingu-directory/) - be active once you're in
 * try to pick one to two other languages to use regularly for solving algorithms and implementing projects in addition to JavaScript (good choices would be to pick one of C++, Java or Python and one of Golang or Rust).
 * spend 30 minutes a day studying math on Khan Academy
 
@@ -97,7 +99,7 @@ other host you want, but figuring that out is up to you.
 ## What sites should I have bookmarked and reference frequently?
 * [surge.sh](https://surge.sh/) - deploy your frontend projects here (or use github pages)
 * [MDN](https://developer.mozilla.org/en-US/) - look HTML, CSS, and JavaScript stuff up here
-* [Heroku](https://dashboard.heroku.com/) - deploy your fullstack projects here (or glich)
+* [Heroku](https://dashboard.heroku.com/) - deploy your fullstack projects here (or glitch)
 * [Firebase](https://firebase.google.com/) or [mLab](https://mlab.com/) - database hosting
 * [GitHub](https://github.com/) - store your code here
 * [Material Design](https://material.google.com) - lean on this when you need a structure for creating a minimalistic but awesome looking site
@@ -108,7 +110,7 @@ other host you want, but figuring that out is up to you.
 * sign up for https://www.codingame.com - finish every training challenge up through "very hard", for the hard and very hard challenges, you'll likely need to have worked down the main list in this post to the data structures book
 * learn [Sass](http://sass-lang.com/guide)
 * Join one of the Chingu cohorts that @tropicalchancer puts together and actively participate on one or more group projects
-* Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/)  landing page
+* Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-creative/) landing page
 * Project: Clone [this](https://blackrockdigital.github.io/startbootstrap-clean-blog/) blog template - note that there are multiple pages
 * Project: Clone [this](https://creativemarket.com/ikonome/686585-Material-Resume-Blue/screenshots/#screenshot2) online resume template
 * Project: Clone the front page of [this](https://urbanarmorgear.com/) website modifying it to highlight a different product or industry. Make special note of the secondary navigation bar at the top. Implementing that is the highlight of this project.
