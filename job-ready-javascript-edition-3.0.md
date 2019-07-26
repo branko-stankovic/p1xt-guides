@@ -23,12 +23,16 @@ A guide primarily focused on Frontend development, but including just enough of 
 **Goal:** Be comfortable with git by midway through Tier 1, and comfortable with Precalculus by the end of Tier 4. 
 
 _Anything in Tier 0 can be studied before beginning Tier 1, or alongside the rest of the guide as you progress through the other Tiers._
-- [ ]  Start working on [Khan Academy](https://www.khanacademy.org/math) math sections daily. Begin wherever your current knowledge lies, and progress alongside the rest of the guide (aiming to cover [Algebra I
-](https://www.khanacademy.org/math/algebra), [
+- [ ]  Start working on [Khan Academy](https://www.khanacademy.org/math) math sections daily. Begin wherever your current knowledge lies, and progress alongside the rest of the guide (aiming to cover 
+  - [ ] [Algebra I
+](https://www.khanacademy.org/math/algebra), 
+  - [ ] [
 Algebra II
-](https://www.khanacademy.org/math/algebra2), [
+](https://www.khanacademy.org/math/algebra2), 
+  - [ ] [
 Trigonometry
-](https://www.khanacademy.org/math/trigonometry) and [
+](https://www.khanacademy.org/math/trigonometry) and 
+  - [ ] [
 Precalculus
 ](https://www.khanacademy.org/math/precalculus)).
 - [ ]  Videos: [Git Videos](https://git-scm.com/videos) or Book: [Pro Git](https://git-scm.com/book/en/v2) or thorough knowledge of Git.
